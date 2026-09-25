@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**R-Karthik7/R-Karthik7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning (AIML).
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming
+- Python
+- Java
+- C
+- C++
+- SQL
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Reinforcement Learning
+- PyTorch
+- YOLO
+- Roboflow
+- NumPy
+- Pandas
+- scikit-learn
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+- Node.js
+- Express.js
+- Flask
+- Streamlit
+
+### Databases
+- MySQL / SQL
+- MongoDB
+- MongoDB Atlas
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Google Colab
+- Tableau
+
+## 🚀 Projects
+
+- **Energy Storage Arbitrage using Dueling DQN** — Reinforcement learning system for battery energy management using real electricity price data.
+- **AI Ambulance Priority System** — AI-based ambulance monitoring and priority system using YOLO, Roboflow, Python, and Streamlit.
